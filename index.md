@@ -2,7 +2,7 @@
 
 PROFIL
 [VELO CARGO FRIGO](/velo_Cargo_CO2.md)
-[VELO ELECTRIQUE] (velo_simple.md)
+[VELO ELECTRIQUE] (velo_base.md)
 
 # INGENIEUR ELECTRONIQUE
 
