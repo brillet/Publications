@@ -54,12 +54,6 @@ Participation à l’émergence du vélo au sein de l’agglomération
 
 ## FORMATION
 
-### MEMBRE ACTIF LABLAB | LAVAL
-Réalisation de solutions techniques pour des personnes en situation de handicap
-
-### BENEVOLE PLACE AU VELO | LAVAL
-Participation à l’émergence du vélo au sein de l’agglomération
-
 ### INGENIEUR ELECTRONIQUE
 **ENSEIRB | 2002**
 - Electronique embarquée
