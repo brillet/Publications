@@ -1,12 +1,6 @@
 # VELO CARGO GLACIERE CO2
 
-
-
-
-
-
-
-
+![Alt](/IMG_7744.jpg "Velo Cargo CO2")
 
 ## FONCTIONS
 - Vélo électrique [Sortimo ProCargo](https://www.mysortimo.com/en/products/cargo-bike-procargo-ct1) 
