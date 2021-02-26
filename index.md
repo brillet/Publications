@@ -6,6 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## COMPETENCES
 
+- Réseau CAN
+- Batterie Lithium
+- Microcontrôleur
+- Langage C
+- Python 
+- HTML et CSS
+- PHP et MySQL
+- Anglais
+- 
+
 ## SAVOIR FAIRE
 
 ### PROJET
@@ -25,12 +35,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## EXPERIENCE PROFESSIONNELLE
 
-### INGENIEUR MECATRONIQUE| GRUAU 
+### INGENIEUR MECATRONIQUE | GRUAU 
 **2016 - 2021**
 - Etude et conception de systèmes embarqués pour véhicules utilitaires
 - Réalisation de prototypes innovants
 
-### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE| BLUEBUS
+### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE | BLUEBUS
 **2003 - 2016**
 - Développement électronique du Bluebus (10 calculateurs)
 - Management d’une équipe technique
