@@ -4,16 +4,18 @@ You can use the [editor on GitHub](https://github.com/brillet/website/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### SAVOIR FAIRE
+## COMPETENCES
 
-#### PROJET
+## SAVOIR FAIRE
+
+### PROJET
 - Pilotage de projet technique
 - Coordination de partenaires industriels
 - Chiffrage de coût de développement
 - Définition de plan de validation système
 - Management d’équipe technique
 
-#### TECHNIQUE
+### TECHNIQUE
 - Définition de cahier des charges
 - Conception d’architecture électronique
 - Sélection de composants
@@ -21,24 +23,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Définition et développement de banc de test
 - Rédaction de documentations techniques
 
-### EXPERIENCE PROFESSIONNELLE
+## EXPERIENCE PROFESSIONNELLE
 
-#### INGENIEUR MECATRONIQUE| GRUAU 
+### INGENIEUR MECATRONIQUE| GRUAU 
 **2016 - 2021**
 - Etude et conception de systèmes embarqués pour véhicules utilitaires
 - Réalisation de prototypes innovants
 
-#### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE| BLUEBUS
+### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE| BLUEBUS
 **2003 - 2016**
 - Développement électronique du Bluebus (10 calculateurs)
 - Management d’une équipe technique
 
-### VIE ASSOCIATIVE
+## VIE ASSOCIATIVE
 
-#### MEMBRE ACTIF LABLAB | LAVAL
+### MEMBRE ACTIF LABLAB | LAVAL
 Réalisation de solutions techniques pour des personnes en situation de handicap
 
-#### BENEVOLE PLACE AU VELO | LAVAL
+### BENEVOLE PLACE AU VELO | LAVAL
 Participation à l’émergence du vélo au sein de l’agglomération
 
 
