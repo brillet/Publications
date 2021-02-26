@@ -1,8 +1,19 @@
-## Welcome to Samuel
+# INGENIEUR ELECTRONIQUE
 
-You can use the [editor on GitHub](https://github.com/brillet/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## A PROPOS
+Passionné d'electronique et créateur, je me suis orienter dès mon enfance vers l'ingenierie electronique.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Autodidacte, mes experiences professionnelles dans le vehicules electriques m'ont permis d'apprendre beaucoup sur les systemes electroniques embarqués et les évolutions rapides du marché du transports.
+
+Au cours de ma carrière, j'ai progressivement eu l'envie franchir de monter ma structure pour exercer en toute liberté dans un domaine que j'aime et m'épanouir au quotidien.
+
+D'un naturel pédagogue et communicatif, je propose mes compétences afin de developper des projets d'électroniques embarqué (Conseil et réalisation) pour tous professionnels, même non-initiés.
+
+Etant cycliste, je m'oriente vers le velo electrique pour me lancer dans un secteur emergeant et encouragé politiquement
+
+17 ans d’expériences
+- Developpement de véhicules électriques
+- Systemes électroniques embarqués
 
 ## COMPETENCES
 
