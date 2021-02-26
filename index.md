@@ -32,6 +32,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Définition et développement de banc de test
 - Rédaction de documentations techniques
 
+
 ## EXPERIENCE PROFESSIONNELLE
 
 ### INGENIEUR MECATRONIQUE | GRUAU 
@@ -44,6 +45,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Développement électronique du Bluebus (10 calculateurs)
 - Management d’une équipe technique
 
+
 ## VIE ASSOCIATIVE
 
 ### MEMBRE ACTIF LABLAB | LAVAL
@@ -51,6 +53,7 @@ Réalisation de solutions techniques pour des personnes en situation de handicap
 
 ### BENEVOLE PLACE AU VELO | LAVAL
 Participation à l’émergence du vélo au sein de l’agglomération
+
 
 ## FORMATION
 
