@@ -14,7 +14,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - HTML et CSS
 - PHP et MySQL
 - Anglais
-- 
 
 ## SAVOIR FAIRE
 
