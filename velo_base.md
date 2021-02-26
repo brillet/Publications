@@ -1,6 +1,6 @@
 # OPTIMISATION VELO ELECTRIQUE
 
-<img src="TDF_URBAIN-hd.jpg" alt="drawing" width="700"/>
+<img src="TDF_URBAIN-hd.jpg" alt="drawing" width="500"/>
 
 ## FONCTIONS
 - Modification contrôle moteur
