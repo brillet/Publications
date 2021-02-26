@@ -1,5 +1,6 @@
 # INGENIEUR ELECTRONIQUE
 
+
 ## A PROPOS
 Passionné d'electronique et créateur, je me suis orienté dès mon enfance vers l'ingénierie electronique.
 
@@ -15,6 +16,7 @@ Etant cycliste, je m'oriente vers le velo electrique pour me lancer dans un sect
 - Développement de véhicules électriques
 - Systêmes électroniques embarqués
 
+
 ## COMPETENCES
 
 - Réseau CAN
@@ -25,6 +27,7 @@ Etant cycliste, je m'oriente vers le velo electrique pour me lancer dans un sect
 - HTML et CSS
 - PHP et MySQL
 - Anglais
+
 
 ## SAVOIR FAIRE
 
@@ -44,6 +47,7 @@ Etant cycliste, je m'oriente vers le velo electrique pour me lancer dans un sect
 - Rédaction de documentations techniques
 
 
+
 ## EXPERIENCE PROFESSIONNELLE
 
 ### INGENIEUR MECATRONIQUE | GRUAU 
@@ -57,6 +61,7 @@ Etant cycliste, je m'oriente vers le velo electrique pour me lancer dans un sect
 - Management d’une équipe technique
 
 
+
 ## VIE ASSOCIATIVE
 
 ### MEMBRE ACTIF LABLAB | LAVAL
@@ -66,6 +71,7 @@ Réalisation de solutions techniques pour des personnes en situation de handicap
 Participation à l’émergence du vélo au sein de l’agglomération
 
 
+
 ## FORMATION
 
 ### INGENIEUR ELECTRONIQUE
@@ -73,23 +79,3 @@ Participation à l’émergence du vélo au sein de l’agglomération
 - Electronique embarquée
 - Informatique industrielle
 - Systèmes radio-fréquences
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
