@@ -1,6 +1,6 @@
 # OPTIMISATION VELO ELECTRIQUE
 
-![Alt](/TDF_URBAIN-hd.jpg "Velo tout simple")
+![Alt](/TDF_URBAIN-hd.jpg "Velo tout simple" =250x)
 
 ## FONCTIONS
 - Modification contrôle moteur
