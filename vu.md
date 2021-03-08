@@ -7,10 +7,10 @@
 ### MES MISSIONS
 - Définition de l’architecture électronique du véhicule
 - Intégration électronique des composants avec partenaires internationaux
-  - Motorisation électrique par CEBI MESDEA
-  - Batterie Lithium BOLLORE et Borne de Charge IER
-  - Fonctionnalités Bus par solution multiplexée ACTIA
-  - Porte électrique BODE et Suspension Pneumatique KNORR BREMSE
+  - Motorisation électrique par [CEBI](https://www.cebi.com/en/electric-vehicle-components)
+  - Batterie Lithium [BOLLORE](https://www.blue-solutions.com/en/blue-solutions/technology/batteries-lmp/) et Borne de Charge [IER](https://www.ier.com/en/cities-businesses/)
+  - Fonctionnalités Bus par solution multiplexée [ACTIA](https://www.actia.com/fr/solutions/gestion-electronique-du-vehicule/architecture-electronique-vehicule/architecture-electronique-vehicules-commerciaux)
+  - Porte électrique [BODE](https://www.schaltbau-bode.com/product-category/bus-door-systems/) et Suspension Pneumatique [KNORR BREMSE](https://www.knorr-bremsecvs.com/en/products_1/electronicsystems/electronicsystems.jsp)
 - Développement outil de diagnostic
 - Suivi des essais de validation et Homologation véhicule
 - Prise en compte des contraintes liées à la production
@@ -25,6 +25,6 @@
 - Mise au point des composants et suivi des évolutions avec les partenaires industriels
   - Motorisation électrique [ACTIA](https://www.actia.com/fr/solutions/electronique-de-puissance/traction-electrique)
   - Batterie Lithium [E4V](http://www.e4v.eu)
-  - Chargeur [BRUSA] (https://www.brusa.biz/portfolio/nlg667/)
+  - Chargeur [BRUSA](https://www.brusa.biz/portfolio/nlg667/)
   - Calculateur [ETA](http://www.e-t-a.fr/) des accessoires (Climatisation, pompe à vide, blocage reducteur)
 
