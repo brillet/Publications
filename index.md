@@ -2,7 +2,8 @@
 
 # INGENIEUR ELECTRONIQUE
 
-## A PROPOS [![Profil Linkedin](/linkedin.png)](https://www.linkedin.com/in/sbrillet)
+## A PROPOS
+<a href="https://www.linkedin.com/in/sbrillet"><img src="linkedin.png"/></a>
 
 Passionné d'electronique et créateur, je me suis orienté dès mon enfance vers l'ingénierie electronique.
 
