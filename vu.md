@@ -2,9 +2,7 @@
 
 ## BLUEBUS BOLLORE
 ### Responsable Développement Electronique pendant 13 ans
-
 <img src="BBus.png" alt="drawing" width="400"/>
-
 ### MES MISSIONS
 - Définition de l’architecture électronique du véhicule
 - Intégration électronique des composants avec partenaires internationaux
@@ -16,11 +14,10 @@
 - Suivi des essais de validation et Homologation véhicule
 - Prise en compte des contraintes liées à la production
 
+
 ## FOURGON ELECTRON GRUAU
 ### Ingénieur Mécatronique pendant 4 ans
-
 <img src="electron.png" alt="drawing" width="400"/>
-
 ### MES MISSIONS
 - Définition électronique des composants du véhicule
 - Mise au point des composants et suivi des évolutions avec partenaires
