@@ -24,7 +24,7 @@
 - Définition électronique des composants du véhicule
 - Mise au point des composants et suivi des évolutions avec les partenaires industriels
   - Motorisation électrique [ACTIA](https://www.actia.com/fr/solutions/electronique-de-puissance/traction-electrique)
-  - Batterie Lithium E4V 
-  - Chargeur BRUSA
-  - Calculateur ETA des accessoires (Climatisation, pompe à vide, blocage reducteur)
+  - Batterie Lithium [E4V](http://www.e4v.eu)
+  - Chargeur [BRUSA] (https://www.brusa.biz/portfolio/nlg667/)
+  - Calculateur [ETA](http://www.e-t-a.fr/) des accessoires (Climatisation, pompe à vide, blocage reducteur)
 
