@@ -5,17 +5,13 @@
 ## A PROPOS
 Passionné d'electronique et créateur, je me suis orienté dès mon enfance vers l'ingénierie electronique.
 
-Autodidacte, mes experiences professionnelles dans le vehicules electriques m'ont permis d'apprendre beaucoup sur les systemes electroniques embarqués et les évolutions rapides du marché du transport.
+Autodidacte, mes 17 ans d'experiences professionnelles dans le vehicules electriques m'ont permis d'apprendre beaucoup sur les systemes electroniques embarqués et les évolutions rapides du marché du transport.
 
-Au cours de ma carrière, j'ai progressivement eu l'envie franchir de monter ma structure pour exercer en toute liberté dans un domaine que j'aime et m'épanouir au quotidien.
+Au cours de ma carrière, j'ai progressivement eu l'envie de monter ma structure pour exercer en toute liberté dans un domaine technique que j'aime.
 
-D'un naturel pédagogue et communicatif, je propose mes services afin de developper des projets d'électronique embarquée (Conseil et réalisation) pour tous professionnels, même non-initiés.
+D'un naturel pédagogue et communicatif, je propose mes services afin de developper des projets d'électroniques embarquées (Conseil et réalisation) pour tous professionnels, essentiellement non-initiés.
 
-Etant cycliste, je m'oriente vers le velo electrique pour me lancer dans un secteur emergeant et encouragé politiquement.
-
-17 ans d’expériences
-- Développement de véhicules électriques
-- Systêmes électroniques embarqués
+Etant cycliste, mes premiers projets concernent le vélo electrique, un secteur emergeant et politiquement encouragé.
 
 
 ## COMPETENCES
