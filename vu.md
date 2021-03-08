@@ -2,8 +2,6 @@
 
 ## BLUEBUS BOLLORE
 
-### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE |  2003 à 2016
-
 <img src="BBus.png" alt="drawing" width="400"/>
 
 ### MES MISSIONS
@@ -19,8 +17,6 @@
 
 
 ## FOURGON ELECTRON GRUAU
-
-### INGENIEUR MECATRONIQUE |  2016 à 2021
 
 <img src="electron.png" alt="drawing" width="400"/>
 
