@@ -1,25 +1,20 @@
 ## [PROFIL](/index.md) | [PROJETS VEHICULES ELECTRIQUES](/vu.md) | [PROJETS VELOS ELECTRIQUES](/velo.md)
 
-## OPTIMISATION VELO ELECTRIQUE
+## BLUEBUS BOLLORE | Responsable Développement Electronique | 13 ans
 
-<img src="TDF_URBAIN-hd.jpg" alt="drawing" width="500"/>
 
-### FONCTIONS DU VELO
-- Modification du contrôle moteur
-  - Mise en place d'une Cartographie selon la « vitesse du vélo » et « cadence de pédalage »
-  - Estimation du couple pédale sans capteur
-- Amélioration de la fonction batterie
-  - Ajout d'une mesure de courant pour la Gestion d'une Jauge « fiable »
-- Remplacement de l’afficheur minimaliste par une application Android
-  - Affichage des fonctions "Vitesse / Compteur kilometrique / Jauge Batterie / Cadence pédalage"
-  - Activation du feu arrière selon le freinage et la nuit
-- Mise en place de fonctions Diagnostic
-  - Modification des paramètres
-  - Gestion des codes défauts du systême
-  - Suivi des données utilisateur "Autonomie / taux de Service /.."
+
+
+
+
 
 ### MES MISSIONS
-- Définition des architectures électronique et logicielle
-- Développement du Logiciel embarqué et de la communication Bluetooth 
-- Développement de l'Application pour SmartPhone Android
-- Développement du Logiciel Diagnostic associé
+- Définition de l’architecture électronique du véhicule
+- Intégration électronique des composants avec partenaires internationaux
+- Motorisation électrique MES DEA
+- Batterie Lithium BOLLORE et Borne de Charge IER
+- Fonctionnalités Bus par solution multiplexée ACTIA
+- Porte électrique BODE et Suspension Pneumatique KNORR BREMSE
+- Développement outil de diagnostic
+- Suivi des essais de validation et Homologation véhicule
+- Prise en compte des contraintes liées à la production
