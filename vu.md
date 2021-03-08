@@ -1,9 +1,9 @@
-## [PROFIL](/index.md) | [PROJETS VEHICULES ELECTRIQUES](/vu.md) | [PROJETS VELOS ELECTRIQUES](/velo.md)
+### [PROFIL](/index.md) | [PROJETS VEHICULES ELECTRIQUES](/vu.md) | [PROJETS VELOS ELECTRIQUES](/velo.md)
 
 ## BLUEBUS BOLLORE
 ### Responsable Développement Electronique pendant 13 ans
 
-<img src="BBus.png" alt="drawing" width="500"/>
+<img src="BBus.png" alt="drawing" width="400"/>
 
 ### MES MISSIONS
 - Définition de l’architecture électronique du véhicule
@@ -19,7 +19,7 @@
 ## FOURGON ELECTRON GRUAU
 ### Ingénieur Mécatronique pendant 4 ans
 
-<img src="electron.png" alt="drawing" width="500"/>
+<img src="electron.png" alt="drawing" width="400"/>
 
 ### MES MISSIONS
 - Définition électronique des composants du véhicule
