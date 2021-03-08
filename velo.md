@@ -1,4 +1,4 @@
-### [PROFIL](/index.md) | [PROJETS VEHICULES ELECTRIQUES](/vu.md) | [PROJETS VELOS ELECTRIQUES](/velo.md)
+### [PROFIL](/index.md) | [VEHICULES ELECTRIQUES](/vu.md) | [VELOS ELECTRIQUES](/velo.md)
 
 ## VELO CARGO GLACIERE CO2
 
