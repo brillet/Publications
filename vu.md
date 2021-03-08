@@ -2,7 +2,8 @@
 
 ## BLUEBUS BOLLORE
 
-### Responsable Développement Electronique pendant 13 ans
+### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE
+***2003 à 2016***
 
 <img src="BBus.png" alt="drawing" width="400"/>
 
@@ -20,7 +21,8 @@
 
 ## FOURGON ELECTRON GRUAU
 
-### Ingénieur Mécatronique pendant 4 ans
+### INGENIEUR MECATRONIQUE
+***2016 à 2021***
 
 <img src="electron.png" alt="drawing" width="400"/>
 
