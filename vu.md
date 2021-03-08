@@ -1,6 +1,7 @@
 ## [PROFIL](/index.md) | [PROJETS VEHICULES ELECTRIQUES](/vu.md) | [PROJETS VELOS ELECTRIQUES](/velo.md)
 
-## BLUEBUS BOLLORE | Responsable Développement Electronique | 13 ans
+## BLUEBUS BOLLORE
+### Responsable Développement Electronique | 13 ans
 
 
 
