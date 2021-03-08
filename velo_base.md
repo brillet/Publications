@@ -23,4 +23,4 @@
 - Définition des architectures électronique et logicielle
 - Développement du Logiciel embarqué et de la communication Bluetooth 
 - Développement de l'Application pour SmartPhone Android
-- Développement du Logiciel Diagnostic associée
+- Développement du Logiciel Diagnostic associé
