@@ -2,7 +2,7 @@
 
 # INGENIEUR ELECTRONIQUE
 
-## A PROPOS [véhicule électrique](https://www.linkedin.com/in/sbrillet)
+## A PROPOS [![Profil Linkedin](/linkedin.png)](https://www.linkedin.com/in/sbrillet)
 
 Passionné d'electronique et créateur, je me suis orienté dès mon enfance vers l'ingénierie electronique.
 
