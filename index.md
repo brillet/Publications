@@ -1,8 +1,6 @@
-# MENU
-[PROFIL](/index.md) | [VELO CARGO FRIGO](/velo_CO2.md) | [VELO ELECTRIQUE](/velo_base.md)
+## [PROFIL](/index.md) | [VELO CARGO FRIGO](/velo_CO2.md) | [VELO ELECTRIQUE](/velo_base.md)
 
 # INGENIEUR ELECTRONIQUE
-
 
 ## A PROPOS
 Passionné d'electronique et créateur, je me suis orienté dès mon enfance vers l'ingénierie electronique.
