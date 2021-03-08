@@ -23,7 +23,7 @@
 ### MES MISSIONS
 - Définition électronique des composants du véhicule
 - Mise au point des composants et suivi des évolutions avec les partenaires industriels
-  - Motorisation électrique ACTIA
+  - Motorisation électrique [ACTIA](https://www.actia.com/fr/solutions/electronique-de-puissance/traction-electrique)
   - Batterie Lithium E4V 
   - Chargeur BRUSA
   - Calculateur ETA des accessoires (Climatisation, pompe à vide, blocage reducteur)
