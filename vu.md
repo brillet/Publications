@@ -2,8 +2,7 @@
 
 ## BLUEBUS BOLLORE
 
-### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE
-***2003 à 2016***
+### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE |  2003 à 2016
 
 <img src="BBus.png" alt="drawing" width="400"/>
 
@@ -21,16 +20,15 @@
 
 ## FOURGON ELECTRON GRUAU
 
-### INGENIEUR MECATRONIQUE
-***2016 à 2021***
+### INGENIEUR MECATRONIQUE |  2016 à 2021
 
 <img src="electron.png" alt="drawing" width="400"/>
 
 ### MES MISSIONS
 - Définition électronique des composants du véhicule
-- Mise au point des composants et suivi des évolutions avec partenaires
-- Motorisation électrique ACTIA
-- Batterie Lithium E4V 
-- Chargeur BRUSA
-- Calculateur ETA des accessoires (Climatisation, pompe à vide, blocage reducteur)
+- Mise au point des composants et suivi des évolutions avec les partenaires industriels
+  - Motorisation électrique ACTIA
+  - Batterie Lithium E4V 
+  - Chargeur BRUSA
+  - Calculateur ETA des accessoires (Climatisation, pompe à vide, blocage reducteur)
 
