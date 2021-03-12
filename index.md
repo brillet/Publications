@@ -54,14 +54,14 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 ## EXPERIENCE PROFESSIONNELLE
 
-### INGENIEUR MECATRONIQUE | [GRUAU](http://www.gruau.com) 
+### [GRUAU](http://www.gruau.com) | INGENIEUR MECATRONIQUE
 **2016 - 2021**
 - Etude et conception de systèmes embarqués pour véhicules utilitaires
 - Développement électronique de l’[Electron](/vu.md) (Véhicule électrique)
 - Réalisation de prototypes innovants
 
 
-### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE | [BLUEBUS](https://www.bluebus.fr/)
+### [BLUEBUS](https://www.bluebus.fr/) | RESPONSABLE DEVELOPPEMENT ELECTRONIQUE
 **2003 - 2016**
 - Développement électronique du [Bluebus](/vu.md) (Véhicule électrique)
 - Validation, homologation et industrialisation du Véhicule
@@ -69,10 +69,10 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 ## VIE ASSOCIATIVE
 
-### [LABLAB](https://www.facebook.com/lablablaval/) | MEMBRE ACTIF  | LAVAL
+### [LABLAB](https://www.facebook.com/lablablaval/) | MEMBRE ACTIF
 Réalisation de solutions techniques pour des personnes en situation de handicap
 
-### [PLACE AU VELO](http://net-entraide.org/placeauvelo/) | BENEVOLE | LAVAL
+### [PLACE AU VELO](http://net-entraide.org/placeauvelo/) | BENEVOLE
 Participation à l’émergence du vélo au sein de l’agglomération
 
 
