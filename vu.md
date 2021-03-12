@@ -13,7 +13,7 @@
   - Fonctionnalités Bus par solution multiplexée [ACTIA](https://www.actia.com/fr/solutions/gestion-electronique-du-vehicule/architecture-electronique-vehicule/architecture-electronique-vehicules-commerciaux)
   - Porte électrique [BODE](https://www.schaltbau-bode.com/product-category/bus-door-systems/) et Suspension Pneumatique [KNORR BREMSE](https://www.knorr-bremsecvs.com/en/products_1/electronicsystems/electronicsystems.jsp)
 - Définition et développement logiciel de diagnostic
-  - Compatible avec outil des concessionnaire Poids Lourds
+  - Compatible avec outil des concessionnaires Poids Lourds
 - Suivi des essais de validation et Homologation véhicule
 - Prise en compte des contraintes liées à la production
 
