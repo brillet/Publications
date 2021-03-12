@@ -30,20 +30,20 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 ## SAVOIR FAIRE
 
 ### PROJET
-- Pilotage de projet technique
+- Pilotage de projets techniques
 - Coordination de partenaires industriels
-- Chiffrage de coût de développement
-- Définition de plan de validation système
+- Chiffrage de coûts de développement
+- Définition de plans de validation système
 - Management d’équipe technique
 
-### TECHNIQUE
-- Définition de cahier des charges
-- Conception d’architecture électronique
-- Sélection de composants
-- Développement de logiciel embarqué
-- Définition et développement de banc de test
-- Rédaction de documentations techniques
 
+### TECHNIQUE
+- Définition de cahiers des charges
+- Conception d’architectures électroniques
+- Sélection de composants
+- Développement de logiciels embarqués
+- Définition et développement de bancs d’essai
+- Rédaction de documentations techniques
 
 
 ## EXPERIENCE PROFESSIONNELLE
@@ -51,13 +51,13 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 ### INGENIEUR MECATRONIQUE | GRUAU 
 **2016 - 2021**
 - Etude et conception de systèmes embarqués pour véhicules utilitaires
-- Développement électronique de l’Electron (Véhicule électrique )
+- Développement électronique de l’[Electron](/vu.md) (Véhicule électrique)
 - Réalisation de prototypes innovants
 
 
 ### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE | BLUEBUS
 **2003 - 2016**
-- Développement électronique du Bluebus (10 calculateurs)
+- Développement électronique du [Bluebus](/vu.md) (Véhicule électrique)
 - Validation, homologation et industrialisation du Véhicule
 
 
