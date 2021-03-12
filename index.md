@@ -29,7 +29,8 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 - **Developpement Web**
   - HTML et CSS
   - PHP et MySQL
-- **Anglais Courant**
+- **Langues**
+  - Anglais Courant
 
 
 ## SAVOIR FAIRE
