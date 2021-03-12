@@ -4,7 +4,6 @@
 @import "{{ site.theme }}";
 
 a:link, a:visited {
-  color: blue;
   padding: 0px 5px;
   text-align: center;
   text-decoration: none;
@@ -14,7 +13,7 @@ a:link, a:visited {
 
 a:hover {
   background-color: dodgerblue;
-  color: background-color;
+  color: white;
 }
 
 a:active {
