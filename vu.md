@@ -23,6 +23,8 @@
 
 ### MES MISSIONS
 - Définition électronique des composants du véhicule
+  -  Analyse du besoin produit
+  -  Etablissement du Cahier des charges technique
 - Mise au point des composants et suivi des évolutions avec les partenaires industriels
   - Motorisation électrique [ACTIA](https://www.actia.com/fr/solutions/electronique-de-puissance/traction-electrique)
   - Batterie Lithium [E4V](http://www.e4v.eu)
