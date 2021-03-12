@@ -12,7 +12,8 @@
   - Batterie Lithium [BOLLORE](https://www.blue-solutions.com/en/blue-solutions/technology/batteries-lmp/) et Borne de Charge [IER](https://www.ier.com/en/cities-businesses/)
   - Fonctionnalités Bus par solution multiplexée [ACTIA](https://www.actia.com/fr/solutions/gestion-electronique-du-vehicule/architecture-electronique-vehicule/architecture-electronique-vehicules-commerciaux)
   - Porte électrique [BODE](https://www.schaltbau-bode.com/product-category/bus-door-systems/) et Suspension Pneumatique [KNORR BREMSE](https://www.knorr-bremsecvs.com/en/products_1/electronicsystems/electronicsystems.jsp)
-- Définition et développement outil de diagnostic compatible avec outil concessionnaire Poids Lourds
+- Définition et développement logiciel de diagnostic
+  - Compatible avec outil des concessionnaire Poids Lourds
 - Suivi des essais de validation et Homologation véhicule
 - Prise en compte des contraintes liées à la production
 
@@ -23,8 +24,8 @@
 
 ### MES MISSIONS
 - Définition électronique des composants du véhicule
-  -  Analyse du besoin produit
-  -  Etablissement du Cahier des charges technique
+  -  Analyse des besoins produit
+  -  Etablissement des Cahier des charges techniques
 - Mise au point des composants et suivi des évolutions avec les partenaires industriels
   - Motorisation électrique [ACTIA](https://www.actia.com/fr/solutions/electronique-de-puissance/traction-electrique)
   - Batterie Lithium [E4V](http://www.e4v.eu)
