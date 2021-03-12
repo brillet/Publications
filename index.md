@@ -69,10 +69,10 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 ## VIE ASSOCIATIVE
 
-### MEMBRE ACTIF [LABLAB](https://www.facebook.com/lablablaval/) | LAVAL
+### [LABLAB](https://www.facebook.com/lablablaval/) | MEMBRE ACTIF  | LAVAL
 Réalisation de solutions techniques pour des personnes en situation de handicap
 
-### BENEVOLE [PLACE AU VELO](http://net-entraide.org/placeauvelo/) | LAVAL
+### [PLACE AU VELO](http://net-entraide.org/placeauvelo/) | BENEVOLE | LAVAL
 Participation à l’émergence du vélo au sein de l’agglomération
 
 
