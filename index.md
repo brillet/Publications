@@ -54,14 +54,14 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 ## EXPERIENCE PROFESSIONNELLE
 
-### INGENIEUR MECATRONIQUE | GRUAU 
+### INGENIEUR MECATRONIQUE | [GRUAU](http://www.gruau.com) 
 **2016 - 2021**
 - Etude et conception de systèmes embarqués pour véhicules utilitaires
 - Développement électronique de l’[Electron](/vu.md) (Véhicule électrique)
 - Réalisation de prototypes innovants
 
 
-### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE | BLUEBUS
+### RESPONSABLE DEVELOPPEMENT ELECTRONIQUE | [BLUEBUS](https://www.bluebus.fr/)
 **2003 - 2016**
 - Développement électronique du [Bluebus](/vu.md) (Véhicule électrique)
 - Validation, homologation et industrialisation du Véhicule
@@ -80,7 +80,7 @@ Participation à l’émergence du vélo au sein de l’agglomération
 ## FORMATION
 
 ### INGENIEUR ELECTRONIQUE
-**ENSEIRB | 2002**
+** [ENSEIRB](https://enseirb-matmeca.bordeaux-inp.fr/fr) | 2002**
 - Electronique embarquée
 - Informatique industrielle
 - Systèmes radio-fréquences
