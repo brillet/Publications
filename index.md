@@ -17,7 +17,7 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 ## COMPETENCES
 - **Electronique**
-  - Capteurs et actionneurs
+  - Composants, capteurs et actionneurs
   - Batterie Lithium
   - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
 - **Protocoles de communication**
