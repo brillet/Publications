@@ -80,7 +80,7 @@ Participation à l’émergence du vélo au sein de l’agglomération
 ## FORMATION
 
 ### INGENIEUR ELECTRONIQUE
-** [ENSEIRB](https://enseirb-matmeca.bordeaux-inp.fr/fr) | 2002**
+**[ENSEIRB](https://enseirb-matmeca.bordeaux-inp.fr/fr) | 2002**
 - Electronique embarquée
 - Informatique industrielle
 - Systèmes radio-fréquences
