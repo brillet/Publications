@@ -17,10 +17,12 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 ## COMPETENCES
 |Electronique|Informatique Embarqué|Developpement Web| Divers|
-|---|---|----|---|
-|Reseau CAN|Langage C |HTML et CSS| Anglais|
+|:---:|:---:|:----:|:---:|
+|Microcontroleur|Langage C |HTML et CSS| Anglais|
 |Batterie Lithium|Python|PHP et MySQL||
-|Microcontroleur||||
+|Capteurs et actionneurs||||
+|Bus de terrain (UART, CAN, LIN)||||
+|Communication Wirless (BLE, SigFox, LoRa)||||
 
 
 ## SAVOIR FAIRE
