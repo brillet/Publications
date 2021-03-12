@@ -16,15 +16,10 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 
 ## COMPETENCES
-
-- Réseau CAN
-- Batterie Lithium
-- Microcontrôleur
-- Langage C
-- Python 
-- HTML et CSS
-- PHP et MySQL
-- Anglais
+|Electronique| Réseau CAN / Batterie Lithium  / Microcontrôleur|
+|Informatique Embarqué |Langage C / Python |
+|Developpement Web | HTML et CSS PHP et MySQL|
+|Divers|Anglais|
 
 
 ## SAVOIR FAIRE
