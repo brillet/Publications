@@ -5,7 +5,7 @@
 <img src="BBus.png" alt="drawing" width="400"/>
 
 ### MES MISSIONS
-- Définition de l’architecture électronique du véhicule
+- Définition complète de l’architecture électronique du véhicule
   - 10 calculateurs sur 3 reseaux CAN
 - Intégration électronique des composants avec partenaires internationaux
   - Motorisation électrique par [CEBI](https://www.cebi.com/en/electric-vehicle-components)
