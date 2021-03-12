@@ -3,6 +3,23 @@
 
 @import "{{ site.theme }}";
 
+a:link, a:visited {
+  color: blue;
+  padding: 0px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: dodgerblue;
+  color: background-color;
+}
+
+a:active {
+  background-color: royalblue;
+}
 
 
 h1 {
@@ -25,21 +42,3 @@ p {
   color: black;
 }
 
-a:link, a:visited {
-  background-color: white;
-  color: blue;
-  padding: 5px 5px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 5px;
-}
-
-a:hover {
-  background-color: royalblue;
-  color: white;
-}
-
-a:active {
-  background-color: blue;
-}
