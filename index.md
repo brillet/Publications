@@ -16,20 +16,20 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 
 ## COMPETENCES
-- Electronique
+- **Electronique**
   - Capteurs et actionneurs
   - Batterie Lithium
   - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
-- Protocoles de communications
+- **Protocoles de communication**
   - Bus de terrain (UART, CAN, LIN)
   - Communication Wireless (BLE, SigFox, LoRa)
-- Informatique Embarqué
+- **Informatique Embarqué**
   - Langage C
   - Python
-- Developpement Web
+- **Developpement Web**
   - HTML et CSS
   - PHP et MySQL
-- Anglais
+- **Anglais Courant**
 
 
 ## SAVOIR FAIRE
