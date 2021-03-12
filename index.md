@@ -16,13 +16,20 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 
 
 ## COMPETENCES
-|Electronique|Informatique Embarqué|Developpement Web| Divers|
-|:---:|:---:|:----:|:---:|
-|Microcontroleur|Langage C |HTML et CSS| Anglais|
-|Batterie Lithium|Python|PHP et MySQL||
-|Capteurs et actionneurs||||
-|Bus de terrain (UART, CAN, LIN)||||
-|Communication Wirless (BLE, SigFox, LoRa)||||
+- Electronique
+  - Capteurs et actionneurs
+  - Batterie Lithium
+  - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
+- Protocoles de communications
+  - Bus de terrain (UART, CAN, LIN)
+  - Communication Wireless (BLE, SigFox, LoRa)
+- Informatique Embarqué
+  - Langage C
+  - Python
+- Developpement Web
+  - HTML et CSS
+  - PHP et MySQL
+- Anglais
 
 
 ## SAVOIR FAIRE
