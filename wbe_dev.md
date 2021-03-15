@@ -2,6 +2,8 @@
 
 ## SUIVI DE FLOTTE
 
+<img src="flotte.png" alt="drawing" width="400"/>
+
 [Vers le site](http://ginnov.gruau.free.fr)
 
 ### FONCTIONS DU SITE
@@ -18,7 +20,7 @@
 
 ## PRONOSTICS SPORTIFS
 
-<img src="electron.png" alt="drawing" width="400"/>
+<img src="pronostic.png" alt="drawing" width="400"/>
 
 [Vers le site](http://www.pronostic.online)
 
@@ -38,7 +40,7 @@
 
 ## PARCOURS VTT MAYENNE
 
-<img src="electron.png" alt="drawing" width="400"/>
+<img src="vtt.png" alt="drawing" width="400"/>
 
 [Vers le site](http://samuel.brillet.free.fr)
 
