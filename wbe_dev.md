@@ -20,7 +20,7 @@
 
 ## PRONOSTICS SPORTIFS
 
-<img src="pronostic.png" alt="drawing" width="400"/>
+<img src="pronostic.png" alt="drawing" width="600"/>
 
 [Vers le site](http://www.pronostic.online)
 
@@ -40,7 +40,7 @@
 
 ## PARCOURS VTT MAYENNE
 
-<img src="vtt.png" alt="drawing" width="400"/>
+<img src="Vtt.png" alt="drawing" width="600"/>
 
 [Vers le site](http://samuel.brillet.free.fr)
 
