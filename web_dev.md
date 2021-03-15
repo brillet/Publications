@@ -40,7 +40,7 @@
 
 ## PARCOURS VTT MAYENNE
 
-<img src="Vtt.png" alt="drawing" width="600"/>
+<img src="vtt.png" alt="drawing" width="600"/>
 
 [Vers le site](http://samuel.brillet.free.fr)
 
