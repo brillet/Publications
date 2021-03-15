@@ -2,7 +2,7 @@
 
 ## SUIVI DE FLOTTE
 
-<img src="flotte.png" alt="drawing" width="400"/>
+<img src="flotte.png" alt="drawing" width="600"/>
 
 [Vers le site](http://ginnov.gruau.free.fr)
 
