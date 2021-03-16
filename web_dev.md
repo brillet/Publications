@@ -2,7 +2,7 @@
 
 ## SUIVI DE FLOTTE
 
-<img src="flotte.png" alt="drawing" width="500"/>
+<img src="flotte.png" alt="drawing" width="600"/>
 
 [Vers le site](http://ginnov.gruau.free.fr)
 
@@ -20,7 +20,7 @@
 
 ## PRONOSTICS SPORTIFS
 
-<img src="pronostic.png" alt="drawing" width="500"/>
+<img src="pronostic.png" alt="drawing" width="600"/>
 
 [Vers le site](http://www.pronostic.online)
 
