@@ -4,7 +4,7 @@
 
 <img src="flotte.png" alt="drawing" width="600"/>
 
-**[Vers le site](http://ginnov.gruau.free.fr)
+**[Vers le site](http://ginnov.gruau.free.fr)**
 
 ### FONCTIONS DU SITE
 - Suivi des informations des Véhicules frigorifiques connectés (Protocole SigFox)
@@ -22,7 +22,7 @@
 
 <img src="pronostic.png" alt="drawing" width="600"/>
 
-**[Vers le site](http://www.pronostic.online)
+**[Vers le site](http://www.pronostic.online)**
 
 ### FONCTIONS DU SITE
 - Pronotics des matchs de compétitions internationales de Football (2018, 2021,..)
@@ -42,7 +42,7 @@
 
 <img src="vtt.png" alt="drawing" width="600"/>
 
-**[Vers le site](http://samuel.brillet.free.fr)
+**[Vers le site](http://samuel.brillet.free.fr)**
 
 ### FONCTIONS DU SITE
 - Mise à disposition de parcours VTT à partir de fichier .gpx
