@@ -6,13 +6,13 @@
 
 ### MES MISSIONS
 - Définition complète de l’architecture électronique du véhicule
-  - 10 calculateurs sur 3 reseaux CAN
+  - 10 calculateurs sur 3 reseaux CAN (Protocole propriétaire et J1939)
 - Intégration électronique des composants avec partenaires internationaux
   - Motorisation électrique par [CEBI](https://www.cebi.com/en/electric-vehicle-components)
   - Batterie Lithium [BOLLORE](https://www.blue-solutions.com/en/blue-solutions/technology/batteries-lmp/) et Borne de Charge [IER](https://www.ier.com/en/cities-businesses/)
   - Fonctionnalités Bus par solution multiplexée [ACTIA](https://www.actia.com/fr/solutions/gestion-electronique-du-vehicule/architecture-electronique-vehicule/architecture-electronique-vehicules-commerciaux)
   - Porte électrique [BODE](https://www.schaltbau-bode.com/product-category/bus-door-systems/) et Suspension Pneumatique [KNORR BREMSE](https://www.knorr-bremsecvs.com/en/products_1/electronicsystems/electronicsystems.jsp)
-- Définition et développement logiciel de diagnostic
+- Définition et développement logiciel de diagnostic (UDS et KWP 2000)
   - Compatible avec outil des concessionnaires Poids Lourds
 - Suivi des essais de validation et Homologation véhicule
 - Prise en compte des contraintes liées à la production
