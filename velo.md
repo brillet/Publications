@@ -1,5 +1,19 @@
 ### [PROFIL](/index.md) | [VEHICULES ELECTRIQUES](/vu.md) | [VELOS ELECTRIQUES](/velo.md) | [SITES WEB](/web_dev.md)
 
+## URBANER DE HPR SOLUTION
+
+<img src="urbaner.jpg" alt="drawing" width="500"/>
+
+### FONCTIONS DU VELO
+- Base de vélo électrique [HPR Solutions Urbaner](https://www.urbaner.eu/) 
+- Mise en place d'un anti-demarrage electronique par bagde RFID
+
+### MES MISSIONS
+- Définition des architectures électronique et logicielle
+- Integration du système au sein de la motorisation [Brose](https://www.brose-ebike.com/de-en/) 
+- Developpement de carte electronique avec micro-controleur
+- Développement du logiciel embarqué
+
 ## VELO CARGO GLACIERE CO2
 
 <img src="IMG_7744.jpg" alt="drawing" width="500"/>
@@ -36,6 +50,7 @@
 
 ### MES MISSIONS
 - Définition des architectures électronique et logicielle
+- Developpement de carte electronique avec micro-controleur
 - Développement du Logiciel embarqué et de la communication Bluetooth 
 - Développement de l'Application pour SmartPhone Android
 - Développement du Logiciel Diagnostic associé
