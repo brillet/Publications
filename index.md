@@ -59,14 +59,14 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 - Etude et conception de systèmes embarqués pour véhicules utilitaires
 - Développement électronique de l’[Electron](/vu.md) (Véhicule électrique)
 - Réalisation de prototypes innovants
-- 
+
 *Pus de détails sur la page [Vehicule Electrique](/vu.md)*
 
 ### [BLUEBUS](https://www.bluebus.fr/) | RESPONSABLE DEVELOPPEMENT ELECTRONIQUE
 **2003 - 2016**
 - Développement électronique du [Bluebus](/vu.md) (Véhicule électrique)
 - Validation, homologation et industrialisation du Véhicule
-- 
+
 *Pus de détails sur la page [Vehicule Electrique](/vu.md)*
 
 ## VIE ASSOCIATIVE
