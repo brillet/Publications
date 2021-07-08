@@ -66,7 +66,7 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 - Développement électronique du [Bluebus](/vu.md) (Véhicule électrique)
 - Validation, homologation et industrialisation du Véhicule
 
-Vers les détails des ces expériences dans le [Vehicule Electrique](/vu.md)
+*Les détails des ces expériences sur la page [Vehicule Electrique](/vu.md)*
 
 ## VIE ASSOCIATIVE
 
