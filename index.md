@@ -22,7 +22,7 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
   - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
 - **Protocoles de communication**
   - Bus de terrain (UART, CAN, LIN)
-  - Protocole CAN Haut niveau (J1939, CANOPEN, UDS)
+  - Protocoles CAN "Haut Niveau" (J1939, CANOPEN, UDS)
   - Communication Wireless (BLE, SigFox, LoRa)
 - **Informatique Embarqué**
   - Langage C
