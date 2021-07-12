@@ -19,7 +19,7 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 - **Electronique**
   - Composants, capteurs et actionneurs
   - Batterie Lithium
-     - Environnement Automobile (400V - ~80kWh) et Velo
+     - Environnement Automobile (400V - ~80kWh) et Vélo électrique
   - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
 - **Protocoles de communication**
   - Bus de terrain (UART, CAN, LIN)
