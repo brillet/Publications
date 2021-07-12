@@ -23,6 +23,7 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 - **Protocoles de communication**
   - Bus de terrain (UART, CAN, LIN)
   - Protocoles CAN "Haut Niveau" (J1939, CANOPEN, UDS)
+     - Vector CANalyser
   - Communication Wireless (BLE, SigFox, LoRa)
 - **Informatique Embarqué**
   - Langage C
