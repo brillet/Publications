@@ -19,11 +19,12 @@ Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/v
 - **Electronique**
   - Composants, capteurs et actionneurs
   - Batterie Lithium
+     - Environnement Automobile (400V - ~80kWh) et Velo
   - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
 - **Protocoles de communication**
   - Bus de terrain (UART, CAN, LIN)
   - Protocoles CAN "Haut Niveau" (J1939, CANOPEN, UDS)
-     - Vector CANalyser
+     - Suite Vector (CANalyser, CAPL, CANdb++)
   - Communication Wireless (BLE, SigFox, LoRa)
 - **Informatique Embarqué**
   - Langage C
