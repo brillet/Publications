@@ -12,14 +12,15 @@ Au cours de ma carrière, j'ai progressivement eu l'envie de monter ma structure
 
 D'un naturel pédagogue et communicatif, je propose desormais mes services (Conseil et Réalisations techniques) aux professionnels désireux de se faire accompagner pour leurs projets d'electronique embarqué.
 
-Etant cycliste, mes premieres réalisations concernent le [vélo électrique](/velo.md), un secteur emergeant et politiquement encouragé.
+Après le [véhicule électrique](/vu.md), mes developpements s'appliquent aussi au [vélo électrique](/velo.md) (un secteur emergeant et politiquement encouragé) ainsi que la conception de [portails Web](/web_dev.md) simples mais fonctionnels.
 
 
 ## COMPETENCES
 - **Electronique**
   - Composants, capteurs et actionneurs
   - Batterie Lithium
-     - Environnement Automobile (400V - 80kWh) et Vélo électrique
+     - Environnement automobile (400V - 80kWh)
+     - Vélo électrique
   - Microcontrôleur (GPIO, I2C, SPI, EEPROM, Interrupt, ..)
 - **Protocoles de communication**
   - Bus de terrain (UART, CAN, LIN)
