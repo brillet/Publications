@@ -62,8 +62,8 @@ Après le [véhicule électrique](/vu.md), mes developpements s'appliquent aussi
 **2021 - Aujourd'hui**
 - Développement d'un système de clé electronique pour vélo électrique [Urbaner](/velo.md)
 - Réalisation d'un boitier d'acquisition de données pour application automobile
-   - Enregistrement de signaux electriques et d'information Bus CAN sur carte SD
-   - Developpement de l'outil logiciel de conversion et d'analyse des données 
+   - Enregistrement des signaux électriques et des informations du Bus CAN sur carte SD
+   - Développement de l'outil logiciel de conversion et d'analyse des données 
 
 ### [GRUAU](http://www.gruau.com) | INGENIEUR MECATRONIQUE
 **2016 - 2021**
