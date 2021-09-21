@@ -58,7 +58,7 @@ Après le [véhicule électrique](/vu.md), mes developpements s'appliquent aussi
 
 ## EXPERIENCE PROFESSIONNELLE
 
-### [FREELANCE] | INGENIEUR ELECTRONIQUE
+### FREELANCE | INGENIEUR ELECTRONIQUE
 **2021 - Aujourd'hui**
 - Développement d'un système de clé electronique pour vélo électrique [Urbaner](/velo.md)
 - Réalisation d'un boitier d'acquisition de données pour application automobile
