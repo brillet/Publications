@@ -1,16 +1,17 @@
 ### [PROFIL](/index.md) | [VEHICULES ELECTRIQUES](/vu.md) | [VELOS ELECTRIQUES](/velo.md) | [SITES WEB](/web_dev.md)
 
-## SUIVI DE FLOTTE
+## SUIVI DE FLOTTE D'OBJETS CONNECTES
 
 <img src="flotte.png" alt="drawing" width="600"/>
 
-**[Vers le site](http://ginnov.gruau.free.fr)**
+**[Vers le site](http://samuel.brillet.free.fr/IOT/)**
 
 ### FONCTIONS DU SITE
-- Suivi des informations des Véhicules frigorifiques connectés (Protocole SigFox)
-  - Température de la cargaison et Géolocalisation
-  - Ouverture caisse frigorifique et défauts du systême
+- Suivi des informations d'objets connectés (Protocole SigFox)
+  - Température, tension, capteurs logiques et analogiques
+  - Remontées périodiques ou selon évenements (capteurs importants ou défauts)
 - Alerte mail en cas de défaillance
+- Gestion des droits des differents utilisateurs
 
 ### MES MISSIONS
 - Définition et codage des comptes utilisateurs (login, mot de passe, niveau accès, groupe)
