@@ -30,6 +30,7 @@ Après le [véhicule électrique](/vu.md), mes developpements s'appliquent aussi
 - **Informatique Embarqué**
   - Langage C
   - Python
+  - Git
 - **Developpement Web**
   - HTML et CSS
   - PHP et MySQL
@@ -59,7 +60,10 @@ Après le [véhicule électrique](/vu.md), mes developpements s'appliquent aussi
 ## EXPERIENCE PROFESSIONNELLE
 
 ### FREELANCE | INGENIEUR ELECTRONIQUE
-**2021 - Aujourd'hui**
+**2022 - Aujourd'hui**
+- Développement de logiciels embarqués pour micro-controleurs STM32 chez [STMicroelectronics](https://www.st.com/content/st_com/en.html)
+
+**2021 - 2022**
 - Développement d'un système de clé electronique pour vélo électrique [Urbaner](/velo.md)
 - Réalisation d'un boitier d'acquisition de données pour application automobile
    - Enregistrement des signaux électriques et des informations du Bus CAN sur carte SD
@@ -79,15 +83,6 @@ Après le [véhicule électrique](/vu.md), mes developpements s'appliquent aussi
 - Validation, homologation et industrialisation du Véhicule
 
 *Pus de détails sur la page [Vehicule Electrique](/vu.md)*
-
-## VIE ASSOCIATIVE
-
-### [LABLAB](https://www.facebook.com/lablablaval/) | MEMBRE ACTIF
-Réalisation de solutions techniques pour des personnes en situation de handicap
-
-### [PLACE AU VELO](http://net-entraide.org/placeauvelo/) | BENEVOLE
-Participation à l’émergence du vélo au sein de l’agglomération
-
 
 
 ## FORMATION
